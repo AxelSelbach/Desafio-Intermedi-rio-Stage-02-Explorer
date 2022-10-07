@@ -1,4 +1,4 @@
-# Explorer - 
+# Explorer
 
 ![preview](./github/p.png)
 
